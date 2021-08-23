@@ -13,7 +13,7 @@ Prueba desarrollada para entrevista de Agilika
 - abrir la consola
 - ejecutar las instrucciones
 
-## Prueba 2
+## Prueba logaritmos
 
 Materia Oscura
 Han pasado varios meses desde que Bender resolvió su problema de doblar. Un requerimiento especial
